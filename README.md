@@ -1,6 +1,3 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
-</p>
 <p align="center"><h1 align="center">PORTSCANNER.GIT</h1></p>
 <p align="center">
 	<em><code>❯ REPLACE-ME</code></em>
@@ -38,13 +35,21 @@
 
 ## 📍 Overview
 
-<code>❯ REPLACE-ME</code>
+<code>❯ Advanced Multi-Target Port Scanner built in Python.
+Scans single or multiple IP addresses for open ports, detects common services, displays colorful output, shows progress, and saves results to files.</code>
 
 ---
 
 ## 👾 Features
 
-<code>❯ REPLACE-ME</code>
+<code>❯ Scan multiple targets at once (comma-separated IPs)
+❯ Scan custom port ranges or default common ports
+❯ Detect common services (HTTP, SSH, FTP, MySQL, etc.)
+❯ Color-coded output: green = open, red = closed, yellow = error
+❯ Multi-threaded scanning for faster results
+❯ Progress bar with estimated time using tqdm
+❯ Save open ports for each target to separate text files
+❯ Automatic installation of required dependencies (colorama, tqdm)</code>
 
 ---
 
@@ -181,3 +186,4 @@ This project is protected under the [SELECT-A-LICENSE](https://choosealicense.co
 - List any resources, contributors, inspiration, etc. here.
 
 ---
+
