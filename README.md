@@ -1,13 +1,4 @@
 <p align="center"><h1 align="center">PORTSCANNER.GIT</h1></p>
-<p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
-</p>
-<p align="center">
-	<img src="https://img.shields.io/github/license/Romil2601/PortScanner.git?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/Romil2601/PortScanner.git?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/Romil2601/PortScanner.git?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/Romil2601/PortScanner.git?style=default&color=0080ff" alt="repo-language-count">
-</p>
 <p align="center"><!-- default option, no dependency badges. -->
 </p>
 <p align="center">
@@ -186,4 +177,5 @@ This project is protected under the [SELECT-A-LICENSE](https://choosealicense.co
 - List any resources, contributors, inspiration, etc. here.
 
 ---
+
 
